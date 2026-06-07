@@ -1,6 +1,6 @@
 # Customer Segmentation & Retention Analysis
 
-A two-stage machine learning pipeline that segments customers using RFM analysis and K-Means clustering, then predicts churn using XGBoost — achieving **84%+ precision** on churn detection and delivering a **23% ROI improvement** through targeted retention strategies.
+A two-stage machine learning pipeline that segments customers using RFM analysis and K-Means clustering, then predicts churn using XGBoost — achieving **84%+ precision** on churn detection and delivering a **23% ROI improvement** through targeted retention strategies. 
  
 ---
 
